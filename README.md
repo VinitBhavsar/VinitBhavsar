@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VinitBhavsar&label=Profile%20views&color=0e75b6&style=flat" alt="VinitBhavsar" /> </p>
 
-- 📫 How to reach me **ddeveloper05.dd@gmail.com**
 - 🔭 I’m currently working on React Native Typescript Project Structure ( Class and Functional Component )
-- 🌱 I’m currently learning node js with mongodb complex queries
-- 🤔 I’m looking for help with mongodb geoJSON query & document structuring
+- 🌱 I’m currently learning node js
 
 <hr>
 
