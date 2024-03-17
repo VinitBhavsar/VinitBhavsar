@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VinitBhavsar&label=Profile%20views&color=0e75b6&style=flat" alt="VinitBhavsar" /> </p>
 
-- 🔭 I’m currently working on React Native Typescript Project Structure ( Class and Functional Component )
+- 🔭 I’m currently working on React Native Typescript Project Structure For Community ( Class and Functional Component )
 - 🌱 I’m currently learning node js
+- My current expertise is in taxi, and delivery solutions in react native as I worked for 2 Years on SaaS Based Products.
 
 <hr>
 
